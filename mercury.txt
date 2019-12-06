@@ -1,2 +1,2 @@
 It is toasty.
-Pull file at beginning of day, push file at end. :)
+Pull file at beginning of day, push file at end.

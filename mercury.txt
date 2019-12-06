@@ -1,2 +1,2 @@
 It is toasty.
-It's in old thermometers. D's edits.
+Pull file at beginning of day, push file at end. :)
